@@ -6,8 +6,8 @@ My name is Pavla and I started learning HTML, CSS and JavaScript. Now I am atten
 
 🧡 About Me
 
-🌱 I’m currently learning JavaScript and React
+    🌱 I’m currently learning JavaScript and React
 
-👦 I have two little children
+    👦 I have two little children
 
-📫 How to reach me: bukovskapavla@gmail.com
+    📫 How to reach me: bukovskapavla@gmail.com
