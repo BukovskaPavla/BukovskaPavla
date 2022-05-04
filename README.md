@@ -14,6 +14,7 @@ My name is Pavla and I started learning HTML, CSS and JavaScript. Now I am atten
     
 
 📚 Study
-    
-    - Bc. - University of Economics in Prague; Faculty of Informatics; Mathematical Methods in Economics
+
     - Ing. - Czech University of Life Sciences in Prague; Faculty of Economics and Management; Project Management
+    - Bc. - University of Economics in Prague; Faculty of Informatics; Mathematical Methods in Economics
+
