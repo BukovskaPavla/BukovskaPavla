@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Pavla and I started learning HTML, CSS and JavaScript. Now I am attending the Academy from Czechitas.
+My name is Pavla and I started learning HTML, CSS, JavaScript and React. Now I am attending React2 from Czechitas.
 
 
 
@@ -17,4 +17,3 @@ My name is Pavla and I started learning HTML, CSS and JavaScript. Now I am atten
 
     - Ing. - Czech University of Life Sciences in Prague; Faculty of Economics and Management; Project Management
     - Bc. - University of Economics in Prague; Faculty of Informatics; Mathematical Methods in Economics
-
